@@ -1,0 +1,5 @@
+[gerrit]
+host=github.com
+port=29418
+project=tungstenfabric-infra-preview/containerregistry.git
+defaultbranch=master
